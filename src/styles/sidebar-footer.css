@@ -182,7 +182,7 @@ h1{
     left: 0;
     display: flex;
     justify-content: space-between;
-    background: linear-gradient(to right, #101926, #2bdefd);
+    background: linear-gradient(to right, #0e121b, #32fc2bd3);
     padding: 15px 40px;
 }
 
